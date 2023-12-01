@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>HTML</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div>
+            <h1>Muhsin Shah</h1>
+        </div>    
+        <div>
+            <img src="photo.jpg" id="photo"/>
+         </div> 
+
+        <div>   
+            <h2>Favorite Music Artists</h2> 
+            <ul>
+                <li>Ali</li>
+                <li>Awais</li>
+                <li>Aimal</li>
+                <li>Hilal</li>
+                <li>Umar</li>
+            </ul>
+        </div> 
+
+        <div>
+            <h2>Favorite Films</h2>
+            <ol>
+                <li>Zaid</li>
+                <li>Saad</li>
+                <li>Ilyas</li>
+                <li>Nouman</li>
+                <li>Kashif</li>
+            </ol>
+        </div>  
+        
+        <div>
+            <a href="https://www.meta.com/">My profile</a>
+        </div>    
+    </body>
+    </html>
